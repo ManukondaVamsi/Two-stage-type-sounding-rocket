@@ -1,4 +1,4 @@
-# Astra Sounding Rocket – 2-Stage MATLAB Simulation
+#  Sounding Rocket – 2-Stage MATLAB Simulation
 
 This project simulates the full flight of a **two-stage Astra-type sounding rocket** using MATLAB.  
 The simulation models thrust, mass depletion, staging, drag, gravity losses, and altitude-dependent air density.  
