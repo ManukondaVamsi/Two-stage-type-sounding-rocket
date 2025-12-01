@@ -67,14 +67,12 @@ h_{i+1} = h_i + v\Delta t
 
 ## Output Plots
 
-The script generates:
-
 ### **1. Full Flight Overview**
 - Altitude vs Time  
 - Velocity vs Time  
 - Acceleration vs Time  
 - Thrust vs Time  
 
-### **2. Stage-Separation Zoom**
+### **2. Stage-Separation **
 - Altitude (until Stage 2 ignition)  
 - Velocity (until Stage 2 ignition)  
